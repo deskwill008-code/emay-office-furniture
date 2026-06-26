@@ -1,0 +1,207 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "slug": "height-adjustable-desk",
+      "name": "Height Adjustable Desk",
+      "category": "Desks",
+      "categorySlug": "desks",
+      "shortDescription": "Electric height-adjustable standing desk with dual-motor system, memory presets, and premium build quality.",
+      "fullDescription": "Our flagship height adjustable desk features a precision dual-motor lifting system that smoothly transitions between sitting and standing positions. The robust steel frame supports up to 150kg while maintaining whisper-quiet operation under 50dB. Memory presets allow users to save their preferred heights, and the anti-collision system ensures safety in busy office environments.",
+      "features": [
+        "Dual-motor electric lift system",
+        "3 programmable memory height presets",
+        "Anti-collision safety technology",
+        "Whisper-quiet operation (<50dB)",
+        "150kg weight capacity",
+        "Adjustable width frame (110-180cm)",
+        "5-year motor warranty"
+      ],
+      "specifications": {
+        "Height Range": "60-125cm",
+        "Frame Material": "Cold-rolled steel",
+        "Desktop Material": "E1 grade MFC / Solid wood option",
+        "Load Capacity": "150kg",
+        "Motor Speed": "38mm/s",
+        "Noise Level": "<50dB",
+        "Power": "110-240V AC",
+        "Certifications": "CE, UL, BIFMA"
+      },
+      "image": "/uploads/height-adjustable-desk.jpg",
+      "gallery": [
+        "/uploads/height-adjustable-desk-1.jpg",
+        "/uploads/height-adjustable-desk-2.jpg",
+        "/uploads/height-adjustable-desk-3.jpg"
+      ],
+      "moq": "20 units",
+      "leadTime": "25-35 days",
+      "packaging": "Knock-down, 1pc/ctn, reinforced corners",
+      "material": "Steel + MFC/Wood",
+      "style": "Modern",
+      "pdfCatalog": "/uploads/catalog-height-adjustable-desk.pdf",
+      "seoTitle": "Height Adjustable Desk | Electric Standing Desk Manufacturer",
+      "seoDescription": "Premium electric height adjustable desk with dual-motor system. Wholesale MOQ 20 units. ISO9001 certified manufacturer exporting to 50+ countries."
+    },
+    {
+      "id": "2",
+      "slug": "executive-office-desk",
+      "name": "Executive Office Desk",
+      "category": "Desks",
+      "categorySlug": "desks",
+      "shortDescription": "Premium executive office desk with cable management, modular storage, and contemporary design.",
+      "fullDescription": "Designed for modern executives, this office desk combines elegant aesthetics with practical functionality. The integrated cable management system keeps workspaces tidy, while modular storage options adapt to evolving needs. Available in multiple finishes to complement any office interior.",
+      "features": [
+        "Integrated cable management system",
+        "Modular storage compartments",
+        "Scratch-resistant surface",
+        "Reinforced steel legs",
+        "Multiple finish options",
+        "Easy assembly design"
+      ],
+      "specifications": {
+        "Dimensions": "160x80x75cm (standard)",
+        "Frame Material": "Powder-coated steel",
+        "Desktop Material": "E1 grade MFC",
+        "Load Capacity": "100kg",
+        "Finishes": "Walnut, Oak, White, Black",
+        "Certifications": "CE, ISO 9001"
+      },
+      "image": "/uploads/executive-office-desk.jpg",
+      "gallery": [
+        "/uploads/executive-office-desk-1.jpg",
+        "/uploads/executive-office-desk-2.jpg",
+        "/uploads/executive-office-desk-3.jpg"
+      ],
+      "moq": "20 units",
+      "leadTime": "25-35 days",
+      "packaging": "Knock-down, 1pc/ctn, foam wrapped",
+      "material": "Steel + MFC",
+      "style": "Executive",
+      "pdfCatalog": "/uploads/catalog-executive-office-desk.pdf",
+      "seoTitle": "Executive Office Desk | Premium Office Furniture Manufacturer",
+      "seoDescription": "Premium executive office desk with cable management and modular storage. B2B wholesale from ISO9001 certified manufacturer. MOQ 20 units."
+    },
+    {
+      "id": "3",
+      "slug": "ergonomic-office-chair",
+      "name": "Ergonomic Office Chair",
+      "category": "Chairs",
+      "categorySlug": "chairs",
+      "shortDescription": "Fully adjustable ergonomic chair with lumbar support, breathable mesh, and synchronized tilt mechanism.",
+      "fullDescription": "Engineered for all-day comfort, our ergonomic office chair features a dynamic lumbar support system that adapts to individual spine curvature. The breathable mesh back promotes airflow while the synchronized tilt mechanism ensures proper posture through every recline angle.",
+      "features": [
+        "Dynamic lumbar support system",
+        "Breathable mesh backrest",
+        "4D adjustable armrests",
+        "Synchronized tilt mechanism",
+        "Seat depth adjustment",
+        "High-density molded foam seat",
+        "BIFMA certified components"
+      ],
+      "specifications": {
+        "Seat Height": "42-55cm",
+        "Backrest Height": "58cm",
+        "Seat Depth": "42-48cm (adjustable)",
+        "Armrest": "4D adjustable",
+        "Base": "Aluminum 5-star base",
+        "Casters": "65mm PU silent casters",
+        "Weight Capacity": "150kg",
+        "Certifications": "BIFMA, EN 1335"
+      },
+      "image": "/uploads/ergonomic-office-chair.jpg",
+      "gallery": [
+        "/uploads/ergonomic-office-chair-1.jpg",
+        "/uploads/ergonomic-office-chair-2.jpg",
+        "/uploads/ergonomic-office-chair-3.jpg"
+      ],
+      "moq": "50 units",
+      "leadTime": "30-40 days",
+      "packaging": "1pc/ctn, 5-layer corrugated carton",
+      "material": "Mesh + Aluminum + Foam",
+      "style": "Ergonomic",
+      "pdfCatalog": "/uploads/catalog-ergonomic-office-chair.pdf",
+      "seoTitle": "Ergonomic Office Chair | Wholesale Office Seating Manufacturer",
+      "seoDescription": "Fully adjustable ergonomic office chair with lumbar support and 4D armrests. BIFMA certified. Wholesale from manufacturer. MOQ 50 units."
+    },
+    {
+      "id": "4",
+      "slug": "steel-filing-cabinet",
+      "name": "Steel Filing Cabinet",
+      "category": "Storage",
+      "categorySlug": "storage",
+      "shortDescription": "Heavy-duty steel filing cabinet with smooth drawer slides, lockable drawers, and anti-tilt mechanism.",
+      "fullDescription": "Built for secure document storage, our steel filing cabinet features precision ball-bearing drawer slides for effortless operation. Each drawer is individually lockable, and the anti-tilt mechanism prevents multiple drawers from opening simultaneously for enhanced safety.",
+      "features": [
+        "Precision ball-bearing drawer slides",
+        "Individually lockable drawers",
+        "Anti-tilt safety mechanism",
+        "Powder-coated rust-resistant finish",
+        "Adjustable file hanging rails",
+        "Recessed handle design"
+      ],
+      "specifications": {
+        "Dimensions": "46x62x132cm (4-drawer)",
+        "Material": "Cold-rolled steel (0.7mm)",
+        "Drawer Capacity": "50kg per drawer",
+        "Lock Type": "Cylinder lock with 2 keys",
+        "Finish": "Powder-coated epoxy",
+        "Colors": "Light Grey, White, Black",
+        "Certifications": "ISO 9001"
+      },
+      "image": "/uploads/steel-filing-cabinet.jpg",
+      "gallery": [
+        "/uploads/steel-filing-cabinet-1.jpg",
+        "/uploads/steel-filing-cabinet-2.jpg",
+        "/uploads/steel-filing-cabinet-3.jpg"
+      ],
+      "moq": "30 units",
+      "leadTime": "20-30 days",
+      "packaging": "Knock-down, 1pc/ctn, foam protection",
+      "material": "Cold-rolled steel",
+      "style": "Industrial",
+      "pdfCatalog": "/uploads/catalog-steel-filing-cabinet.pdf",
+      "seoTitle": "Steel Filing Cabinet | Lockable Storage Cabinet Manufacturer",
+      "seoDescription": "Heavy-duty steel filing cabinet with lockable drawers and anti-tilt mechanism. ISO9001 certified manufacturer. MOQ 30 units."
+    },
+    {
+      "id": "5",
+      "slug": "conference-table",
+      "name": "Conference Table",
+      "category": "Tables",
+      "categorySlug": "tables",
+      "shortDescription": "Modular conference table system with integrated power, cable management, and scalable configurations.",
+      "fullDescription": "Our conference table system adapts to any meeting space from 6-person huddles to 20-person boardrooms. Modular sections connect seamlessly with integrated power and data modules. The cable management spine runs the full length, keeping technology connections organized and accessible.",
+      "features": [
+        "Modular scalable configuration",
+        "Integrated power and data modules",
+        "Full-length cable management spine",
+        "Scratch and heat resistant surface",
+        "Modesty panel option",
+        "Multiple size configurations"
+      ],
+      "specifications": {
+        "Standard Sizes": "240x120cm, 320x140cm, 480x160cm",
+        "Frame Material": "Powder-coated steel",
+        "Top Material": "E1 MFC / HPL option",
+        "Power Modules": "USB-A, USB-C, AC outlets",
+        "Cable Management": "Integrated spine",
+        "Weight Capacity": "200kg",
+        "Certifications": "CE, ISO 9001"
+      },
+      "image": "/uploads/conference-table.jpg",
+      "gallery": [
+        "/uploads/conference-table-1.jpg",
+        "/uploads/conference-table-2.jpg",
+        "/uploads/conference-table-3.jpg"
+      ],
+      "moq": "10 units",
+      "leadTime": "35-45 days",
+      "packaging": "Knock-down, flat pack, wooden crate option",
+      "material": "Steel + MFC/HPL",
+      "style": "Modern",
+      "pdfCatalog": "/uploads/catalog-conference-table.pdf",
+      "seoTitle": "Conference Table | Modular Meeting Table Manufacturer",
+      "seoDescription": "Modular conference table system with integrated power and cable management. Custom sizes available. ISO9001 certified. MOQ 10 units."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "categories": [
+    {
+      "id": "desks",
+      "name": "Desks",
+      "slug": "desks",
+      "description": "Executive desks, standing desks, and workstation solutions",
+      "image": "/uploads/category-desks.jpg"
+    },
+    {
+      "id": "chairs",
+      "name": "Chairs",
+      "slug": "chairs",
+      "description": "Ergonomic office chairs, executive seating, and task chairs",
+      "image": "/uploads/category-chairs.jpg"
+    },
+    {
+      "id": "storage",
+      "name": "Storage",
+      "slug": "storage",
+      "description": "Filing cabinets, bookcases, and storage solutions",
+      "image": "/uploads/category-storage.jpg"
+    },
+    {
+      "id": "tables",
+      "name": "Tables",
+      "slug": "tables",
+      "description": "Conference tables, meeting tables, and collaborative surfaces",
+      "image": "/uploads/category-tables.jpg"
+    }
+  ]
+}
